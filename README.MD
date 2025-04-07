@@ -8,7 +8,7 @@ We have exported a pretrained sunset model into Onnx format.
 - An incompleted set of SIRTA data is used and can be downloaded from [INCOMPLETE_SIRTA_DATA](https://drive.google.com/drive/folders/1q6KAiL3TYvcZWi-sMRHkbdozudbFlpYC?usp=sharing)
  
 
-- After you have run all the files, you should get the following directories:
+- After you have made a complete installation and settings and run all the files, you should get the following directories:
 
     ```
     - configs/
