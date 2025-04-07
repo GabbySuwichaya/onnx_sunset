@@ -1,0 +1,19 @@
+torch_weight_path  : "sunset_torch"
+model_dir          : "sunset_onnex_trained_torch"
+artifacts_dir      : "sunset_onnex/artifacts"
+image_channels     : 3
+image_resize       : 64
+
+early_stopper_patience : 3
+learning_rate  : 0.00001
+seq_length     : 16
+predict_length : 15
+
+dense_size     : 1024
+pool_size      : 2
+drop_rate      : 0.001
+strides        : 2
+kernel_size    : 3
+
+div_num_filter : 1
+ 
